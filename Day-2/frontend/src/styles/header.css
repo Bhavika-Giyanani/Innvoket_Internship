@@ -1,0 +1,9 @@
+p {
+  color: white;
+}
+p:hover {
+  color: gold;
+}
+p:active {
+  color: gold;
+}
